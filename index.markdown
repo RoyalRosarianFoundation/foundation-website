@@ -4,8 +4,11 @@ title: Home
 ---
 
 <!-- Hero Section -->
-<section class="bg-gradient-to-r from-rose-50 to-pink-50 py-16 lg:py-24">
-  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+<section class="relative bg-gradient-to-r from-rose-50 to-pink-50 py-16 lg:py-24 overflow-hidden">
+  <div class="absolute inset-0 z-0">
+    <img src="{{ "/assets/images/misc/banner.jpg" | relative_url }}" alt="Portland Rose Festival" class="w-full h-full object-cover opacity-20">
+  </div>
+  <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="text-center">
       <h2 class="text-4xl font-bold text-gray-900 sm:text-5xl lg:text-6xl">
         For You, a Rose in Portland Grows

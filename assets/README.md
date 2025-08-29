@@ -2,22 +2,22 @@
 
 This folder contains media files and assets for the Royal Rosarian Foundation static site.
 
-## Images to Download from Original Site
+## Images Downloaded from Original Site
 
 ### Logo and Branding
-- [ ] Royal Rosarian Foundation logo
-- [ ] 2025 Auction logo ("Luck of the Irish" theme)
+- [x] Royal Rosarian Foundation logo (`logo/rrf-logo.png`)
+- [x] 2025 Auction logo ("Luck of the Irish" theme) (`logo/auction-2025.png`)
 
 ### Service Activities
-- [ ] Milk Carton Boat Race photo
-- [ ] Community Transitional School photo  
-- [ ] Rose Court transportation image
-- [ ] Grand Floral parade float image
+- [x] Milk Carton Boat Race photo (`events/milk-carton-boat-race.jpg`)
+- [x] Community Transitional School photo (`activities/transitional-school.png`)
+- [x] Rose Court transportation image (`activities/rose-court-transportation.jpg`)
+- [x] Grand Floral parade float image (`events/grand-floral-parade.jpg`)
 - [ ] Christmas shopping event photo
 
 ### Additional Assets
-- [ ] Various service activity photos
-- [ ] Any background images or graphics from the original site
+- [x] Banner/background image (`misc/banner.jpg`)
+- [ ] Additional service activity photos (as needed)
 
 ## Usage Notes
 - Save web-optimized versions (JPEG/PNG) in the `images/` subdirectory
