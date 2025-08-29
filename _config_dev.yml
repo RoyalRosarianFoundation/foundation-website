@@ -1,0 +1,5 @@
+# Development configuration for local testing
+# This overrides the production baseurl setting
+
+baseurl: "" # Empty baseurl for local development
+url: "http://localhost:4001"
