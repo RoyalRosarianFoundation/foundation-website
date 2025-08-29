@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   We are dedicated to enhancing the livability of the greater Portland community 
   and promoting participation in the Portland Rose Festival. Supporting local schools, 
   community programs, and Portland's unique traditions.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/foundation-website" # the subpath of your site, e.g. /blog
 url: "https://royalrosarianfoundation.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: 
