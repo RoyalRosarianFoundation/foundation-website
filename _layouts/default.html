@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            'rose': {
+              50: '#fff1f2',
+              100: '#ffe4e6',
+              500: '#f43f5e',
+              600: '#e11d48',
+              700: '#be185d'
+            }
+          }
+        }
+      }
+    }
+  </script>
+  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+  {%- seo -%}
+  {%- feed_meta -%}
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
+</head>
+
+<body class="bg-white text-gray-900 font-sans antialiased">
+  <header role="banner" class="bg-white shadow-sm border-b border-gray-200">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <!-- Top bar with logo and main title -->
+      <div class="flex items-center justify-between py-6">
+        <div class="flex items-center space-x-4">
+          <div class="flex-shrink-0">
+            <!-- Logo placeholder -->
+            <div class="h-12 w-12 bg-rose-500 rounded-full flex items-center justify-center">
+              <span class="text-white font-bold text-lg">RRF</span>
+            </div>
+          </div>
+          <div>
+            <h1 class="text-2xl font-bold text-gray-900">
+              <a href="{{ "/" | relative_url }}" class="hover:text-rose-600 transition-colors">{{ site.title }}</a>
+            </h1>
+            <p class="text-sm text-gray-600 mt-1">Supporting Community Growth and Service</p>
+          </div>
+        </div>
+        
+        <!-- High-contrast donation button -->
+        <div class="hidden md:block">
+          <a href="/donate" class="bg-rose-600 hover:bg-rose-700 text-white font-semibold py-3 px-6 rounded-lg transition-colors focus:outline-none focus:ring-2 focus:ring-rose-500 focus:ring-offset-2">
+            Donate Now
+          </a>
+        </div>
+      </div>
+      
+      <!-- Main navigation -->
+      <nav role="navigation" aria-label="Main navigation" class="border-t border-gray-200">
+        <div class="flex space-x-8 overflow-x-auto py-4">
+          <div class="flex-shrink-0">
+            <h3 class="text-sm font-semibold text-gray-900 uppercase tracking-wider mb-3">Impact</h3>
+            <ul class="space-y-2">
+              <li><a href="/programs" class="text-sm text-gray-600 hover:text-rose-600 block">Our Programs</a></li>
+              <li><a href="/impact" class="text-sm text-gray-600 hover:text-rose-600 block">Impact Report</a></li>
+              <li><a href="/stories" class="text-sm text-gray-600 hover:text-rose-600 block">Success Stories</a></li>
+            </ul>
+          </div>
+          
+          <div class="flex-shrink-0">
+            <h3 class="text-sm font-semibold text-gray-900 uppercase tracking-wider mb-3">Legacy</h3>
+            <ul class="space-y-2">
+              <li><a href="/about" class="text-sm text-gray-600 hover:text-rose-600 block">About Us</a></li>
+              <li><a href="/history" class="text-sm text-gray-600 hover:text-rose-600 block">Our History</a></li>
+              <li><a href="/leadership" class="text-sm text-gray-600 hover:text-rose-600 block">Leadership</a></li>
+            </ul>
+          </div>
+          
+          <div class="flex-shrink-0">
+            <h3 class="text-sm font-semibold text-gray-900 uppercase tracking-wider mb-3">Partner</h3>
+            <ul class="space-y-2">
+              <li><a href="/volunteer" class="text-sm text-gray-600 hover:text-rose-600 block">Volunteer</a></li>
+              <li><a href="/events" class="text-sm text-gray-600 hover:text-rose-600 block">Events</a></li>
+              <li><a href="/auction" class="text-sm text-gray-600 hover:text-rose-600 block">Annual Auction</a></li>
+            </ul>
+          </div>
+          
+          <div class="flex-shrink-0">
+            <h3 class="text-sm font-semibold text-gray-900 uppercase tracking-wider mb-3">Connect</h3>
+            <ul class="space-y-2">
+              <li><a href="https://royalrosarians.org" target="_blank" rel="noopener" class="text-sm text-gray-600 hover:text-rose-600 block">Main Organization ↗</a></li>
+              <li><a href="/contact" class="text-sm text-gray-600 hover:text-rose-600 block">Contact</a></li>
+            </ul>
+          </div>
+        </div>
+        
+        <!-- Mobile donation button -->
+        <div class="md:hidden pb-4">
+          <a href="/donate" class="block w-full bg-rose-600 hover:bg-rose-700 text-white font-semibold py-3 px-4 rounded-lg text-center transition-colors focus:outline-none focus:ring-2 focus:ring-rose-500 focus:ring-offset-2">
+            Donate Now
+          </a>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <main role="main" aria-label="Content">
+    {{ content }}
+  </main>
+
+  <footer role="contentinfo" class="bg-gray-50 border-t border-gray-200">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div>
+          <h3 class="text-sm font-semibold text-gray-900 uppercase tracking-wider mb-4">Contact</h3>
+          <div class="text-sm text-gray-600 space-y-2">
+            <p class="font-medium">Royal Rosarian Foundation</p>
+            <p>PO Box 8956<br>Portland, OR 97207-8956</p>
+            <p><a href="mailto:{{ site.email }}" class="text-rose-600 hover:text-rose-500">{{ site.email }}</a></p>
+          </div>
+        </div>
+        
+        <div>
+          <h3 class="text-sm font-semibold text-gray-900 uppercase tracking-wider mb-4">Programs</h3>
+          <ul class="text-sm text-gray-600 space-y-2">
+            <li><a href="/programs/field-trips" class="hover:text-rose-600">Field Trip Project</a></li>
+            <li><a href="/programs/transitional-school" class="hover:text-rose-600">Transitional School</a></li>
+            <li><a href="/programs/christmas-for-kids" class="hover:text-rose-600">Christmas for Kids</a></li>
+            <li><a href="/programs/boat-race" class="hover:text-rose-600">Milk Carton Boat Race</a></li>
+          </ul>
+        </div>
+        
+        <div>
+          <h3 class="text-sm font-semibold text-gray-900 uppercase tracking-wider mb-4">Get Involved</h3>
+          <ul class="text-sm text-gray-600 space-y-2">
+            <li><a href="/donate" class="hover:text-rose-600">Make a Donation</a></li>
+            <li><a href="/volunteer" class="hover:text-rose-600">Volunteer</a></li>
+            <li><a href="/auction" class="hover:text-rose-600">Annual Auction</a></li>
+            <li><a href="/membership" class="hover:text-rose-600">Become a Member</a></li>
+          </ul>
+        </div>
+      </div>
+      
+      <div class="border-t border-gray-200 mt-8 pt-8">
+        <div class="text-sm text-gray-500 text-center space-y-2">
+          <p>&copy; {{ "now" | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
+          <p>501(c)(3) nonprofit organization dedicated to Portland community support.</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>
