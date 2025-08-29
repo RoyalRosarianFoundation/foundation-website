@@ -165,8 +165,8 @@ title: Home
             </a>
           </li>
           <li>
-            <a href="/auction" class="block p-4 rounded-lg bg-rose-50 hover:bg-rose-100 transition-colors">
-              <h4 class="font-medium text-gray-900">Annual Auction</h4>
+            <a href="https://royalrosariansfdn.ejoinme.org/Home26" target="_blank" rel="noopener" class="block p-4 rounded-lg bg-rose-50 hover:bg-rose-100 transition-colors">
+              <h4 class="font-medium text-gray-900">Annual Auction ↗</h4>
               <p class="text-sm text-gray-600 mt-1">2025 Theme: "Luck of the Irish"</p>
             </a>
           </li>
