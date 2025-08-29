@@ -113,7 +113,7 @@ title: Contact
         <div>
           <h3 class="text-lg font-semibold text-gray-900 mb-3">How do I apply for funding for my organization or program?</h3>
           <p class="text-gray-600">
-            Please email us at info@royalrosarians.org with details about your program, how it aligns with our mission, and your funding request. Our board reviews applications throughout the year.
+            We have a formal grant application process with specific deadlines and criteria. Visit our <a href="{{ "/grants" | relative_url }}" class="text-rose-600 hover:text-rose-500 font-medium">Grant Application page</a> for complete details, or email us at info@royalrosarians.org with questions about your program and how it aligns with our mission.
           </p>
         </div>
       </div>
