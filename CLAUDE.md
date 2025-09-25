@@ -71,9 +71,23 @@ eval "$(rbenv init -)"
 gem install bundler jekyll
 ```
 
-### Commands to Remember
-- `bundle exec jekyll serve` - Run development server
-- `bundle exec jekyll build` - Build static site for deployment
+### Development Commands
+```bash
+# Development server (with local config)
+export PATH="$HOME/.rbenv/bin:$PATH" && eval "$(rbenv init -)"
+bundle exec jekyll serve --config _config.yml,_config_dev.yml --port 4001
+
+# Build for local testing (empty baseurl)
+bundle exec jekyll build --config _config.yml,_config_dev.yml
+
+# Build for production deployment (with /foundation-website baseurl)
+bundle exec jekyll build
+```
+
+### Configuration Files
+- `_config.yml` - Main configuration with production settings
+- `_config_dev.yml` - Development override (sets `baseurl: ""` for local testing)
+- Use both configs for local development to ensure working links
 
 ## Content Strategy
 

@@ -22,10 +22,15 @@ title: Programs
         <div class="bg-white border border-gray-200 rounded-lg shadow-sm overflow-hidden">
           <img src="{{ "/assets/images/activities/transitional-school.png" | relative_url }}" alt="Transitional School" class="w-full h-48 object-cover">
           <div class="p-6">
-            <h3 class="text-xl font-semibold text-gray-900 mb-3">Transitional School Support</h3>
-            <p class="text-gray-600 mb-4">Educational support and community outreach program helping students in transition with resources and mentorship.</p>
-            <div class="flex items-center text-rose-600 text-sm font-medium">
-              <span class="mr-2">500+ Students Supported</span>
+            <h3 class="text-xl font-semibold text-gray-900 mb-3">Community Transitional School</h3>
+            <p class="text-gray-600 mb-4">Year-round education for houseless children Pre-K through 8th grade, with transportation and specialized support services.</p>
+            <div class="flex items-center justify-between">
+              <div class="flex items-center text-rose-600 text-sm font-medium">
+                <span class="mr-2">Pre-K - 8th Grade</span>
+              </div>
+              <a href="{{ "/transitional-school" | relative_url }}" class="text-rose-600 hover:text-rose-500 text-sm font-medium">
+                Learn More →
+              </a>
             </div>
           </div>
         </div>
@@ -38,9 +43,14 @@ title: Programs
           </div>
           <div class="p-6">
             <h3 class="text-xl font-semibold text-gray-900 mb-3">Field Trip Program</h3>
-            <p class="text-gray-600 mb-4">Funding educational field trips that broaden students' horizons and provide learning experiences outside the classroom.</p>
-            <div class="flex items-center text-rose-600 text-sm font-medium">
-              <span class="mr-2">2,500+ Students Reached</span>
+            <p class="text-gray-600 mb-4">Transportation funding for educational field trips since 2007, serving 4 school districts with $30,000+ donated annually.</p>
+            <div class="flex items-center justify-between">
+              <div class="flex items-center text-rose-600 text-sm font-medium">
+                <span class="mr-2">$30,000+ Annual Funding</span>
+              </div>
+              <a href="{{ "/field-trips" | relative_url }}" class="text-rose-600 hover:text-rose-500 text-sm font-medium">
+                Learn More →
+              </a>
             </div>
           </div>
         </div>
@@ -83,9 +93,14 @@ title: Programs
           <img src="{{ "/assets/images/events/grand-floral-parade.jpg" | relative_url }}" alt="Grand Floral Parade" class="w-full h-64 object-cover">
           <div class="p-6">
             <h3 class="text-2xl font-semibold text-gray-900 mb-3">Rose Festival Support</h3>
-            <p class="text-gray-600 mb-4">Active participation in Portland's signature Rose Festival including Grand Floral Parade floats and supporting Rose Court transportation.</p>
-            <div class="flex items-center text-rose-600 text-sm font-medium">
-              <span class="mr-2">🌹 Annual Tradition</span>
+            <p class="text-gray-600 mb-4">Comprehensive Rose Festival support including Grand Floral floats, princess travel programs, traveling float tours, and Living History presentations.</p>
+            <div class="flex items-center justify-between">
+              <div class="flex items-center text-rose-600 text-sm font-medium">
+                <span class="mr-2">🌹 4 Major Programs</span>
+              </div>
+              <a href="{{ "/rose-festival" | relative_url }}" class="text-rose-600 hover:text-rose-500 text-sm font-medium">
+                Learn More →
+              </a>
             </div>
           </div>
         </div>

@@ -109,15 +109,15 @@ title: Home
         <h3 class="text-xl font-semibold text-gray-900 mb-6">Children</h3>
         <ul class="space-y-4">
           <li>
-            <a href="{{ "/programs/transitional-school" | relative_url }}" class="block p-4 rounded-lg bg-rose-50 hover:bg-rose-100 transition-colors">
-              <h4 class="font-medium text-gray-900">Transitional School</h4>
-              <p class="text-sm text-gray-600 mt-1">Supporting students in transition</p>
+            <a href="{{ "/transitional-school" | relative_url }}" class="block p-4 rounded-lg bg-rose-50 hover:bg-rose-100 transition-colors">
+              <h4 class="font-medium text-gray-900">Community Transitional School</h4>
+              <p class="text-sm text-gray-600 mt-1">Year-round education for houseless children Pre-K through 8th grade</p>
             </a>
           </li>
           <li>
-            <a href="{{ "/programs/field-trips" | relative_url }}" class="block p-4 rounded-lg bg-rose-50 hover:bg-rose-100 transition-colors">
+            <a href="{{ "/field-trips" | relative_url }}" class="block p-4 rounded-lg bg-rose-50 hover:bg-rose-100 transition-colors">
               <h4 class="font-medium text-gray-900">Field Trip Program</h4>
-              <p class="text-sm text-gray-600 mt-1">Educational opportunities for students</p>
+              <p class="text-sm text-gray-600 mt-1">Transportation funding for educational experiences since 2007</p>
             </a>
           </li>
           <li>
@@ -146,9 +146,9 @@ title: Home
             </a>
           </li>
           <li>
-            <a href="{{ "/programs/rose-festival" | relative_url }}" class="block p-4 rounded-lg bg-rose-50 hover:bg-rose-100 transition-colors">
+            <a href="{{ "/rose-festival" | relative_url }}" class="block p-4 rounded-lg bg-rose-50 hover:bg-rose-100 transition-colors">
               <h4 class="font-medium text-gray-900">Rose Festival Support</h4>
-              <p class="text-sm text-gray-600 mt-1">Parade participation and Rose Court transportation</p>
+              <p class="text-sm text-gray-600 mt-1">Grand Floral floats, princess travel, and historical programs</p>
             </a>
           </li>
         </ul>
