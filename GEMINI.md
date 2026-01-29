@@ -1,6 +1,6 @@
 # Royal Rosarian Foundation Website Redesign
 
-*Project documentation for Claude Code assistance*
+*Project documentation for Gemini assistance*
 
 ## Project Overview
 
