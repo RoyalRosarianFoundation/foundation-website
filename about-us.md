@@ -40,7 +40,7 @@ title: Leadership
 
     <!-- Board Photo -->
     <div class="mb-16">
-      <img src="{{ "/assets/images/misc/board-members-2025.png" | relative_url }}" alt="Royal Rosarian Foundation Board Members 2025" class="w-full h-auto rounded-lg shadow-md">
+      <img src="{{ "/assets/images/misc/board-members-2025.png" | relative_url }}" alt="Royal Rosarian Foundation Board Members 2026" class="w-full h-auto rounded-lg shadow-md">
     </div>
 
     <!-- 2026 Officers -->
