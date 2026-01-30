@@ -38,9 +38,14 @@ title: Leadership
       </div>
     </div>
 
-    <!-- 2025 Officers -->
+    <!-- Board Photo -->
     <div class="mb-16">
-      <h2 class="text-3xl font-bold text-gray-900 text-center mb-12">2025 Officers</h2>
+      <img src="{{ "/assets/images/misc/board-members-2025.png" | relative_url }}" alt="Royal Rosarian Foundation Board Members 2025" class="w-full h-auto rounded-lg shadow-md">
+    </div>
+
+    <!-- 2026 Officers -->
+    <div class="mb-16">
+      <h2 class="text-3xl font-bold text-gray-900 text-center mb-12">2026 Officers</h2>
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
         
         <div class="bg-white border border-gray-200 rounded-lg shadow-sm p-6 text-center">
@@ -54,11 +59,11 @@ title: Leadership
 
         <div class="bg-white border border-gray-200 rounded-lg shadow-sm p-6 text-center">
           <div class="w-24 h-24 mx-auto mb-4 bg-rose-100 rounded-full flex items-center justify-center">
-            <span class="text-2xl font-bold text-rose-600">KJ</span>
+            <span class="text-2xl font-bold text-rose-600">MW</span>
           </div>
-          <h3 class="text-xl font-semibold text-gray-900 mb-2">Katherine Johnson</h3>
+          <h3 class="text-xl font-semibold text-gray-900 mb-2">Mike Ware</h3>
           <p class="text-rose-600 font-medium mb-1">Vice President</p>
-          <p class="text-sm text-gray-500">Dame</p>
+          <p class="text-sm text-gray-500">Duke</p>
         </div>
 
         <div class="bg-white border border-gray-200 rounded-lg shadow-sm p-6 text-center">
@@ -81,25 +86,17 @@ title: Leadership
       </div>
     </div>
 
-    <!-- 2025 Board Members -->
+    <!-- 2026 Board Members -->
     <div class="mb-16">
-      <h2 class="text-3xl font-bold text-gray-900 text-center mb-12">2025 Board Members</h2>
+      <h2 class="text-3xl font-bold text-gray-900 text-center mb-12">2026 Board Members</h2>
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
         
-        <div class="bg-white border border-gray-200 rounded-lg shadow-sm p-6 text-center">
-          <div class="w-24 h-24 mx-auto mb-4 bg-rose-100 rounded-full flex items-center justify-center">
-            <span class="text-2xl font-bold text-rose-600">AA</span>
-          </div>
-          <h3 class="text-xl font-semibold text-gray-900 mb-2">Amy Arasmith</h3>
-          <p class="text-rose-600 font-medium">Prime Minister</p>
-        </div>
-
         <div class="bg-white border border-gray-200 rounded-lg shadow-sm p-6 text-center">
           <div class="w-24 h-24 mx-auto mb-4 bg-rose-100 rounded-full flex items-center justify-center">
             <span class="text-2xl font-bold text-rose-600">RF</span>
           </div>
           <h3 class="text-xl font-semibold text-gray-900 mb-2">Ron Fisher</h3>
-          <p class="text-rose-600 font-medium">Lord High Chancellor</p>
+          <p class="text-rose-600 font-medium">Prime Minister</p>
         </div>
 
         <div class="bg-white border border-gray-200 rounded-lg shadow-sm p-6 text-center">
@@ -107,6 +104,14 @@ title: Leadership
             <span class="text-2xl font-bold text-rose-600">KN</span>
           </div>
           <h3 class="text-xl font-semibold text-gray-900 mb-2">Kik Nielsen</h3>
+          <p class="text-rose-600 font-medium">Lord High Chancellor</p>
+        </div>
+
+        <div class="bg-white border border-gray-200 rounded-lg shadow-sm p-6 text-center">
+          <div class="w-24 h-24 mx-auto mb-4 bg-rose-100 rounded-full flex items-center justify-center">
+            <span class="text-2xl font-bold text-rose-600">PW</span>
+          </div>
+          <h3 class="text-xl font-semibold text-gray-900 mb-2">Patrick Wong</h3>
           <p class="text-rose-600 font-medium">Secretary of State</p>
         </div>
 
@@ -144,9 +149,9 @@ title: Leadership
 
         <div class="bg-white border border-gray-200 rounded-lg shadow-sm p-6 text-center">
           <div class="w-24 h-24 mx-auto mb-4 bg-rose-100 rounded-full flex items-center justify-center">
-            <span class="text-2xl font-bold text-rose-600">LW</span>
+            <span class="text-2xl font-bold text-rose-600">CP</span>
           </div>
-          <h3 class="text-xl font-semibold text-gray-900 mb-2">Linda White</h3>
+          <h3 class="text-xl font-semibold text-gray-900 mb-2">Cheryl Prochaska</h3>
           <p class="text-rose-600 font-medium">Dame</p>
         </div>
       </div>
