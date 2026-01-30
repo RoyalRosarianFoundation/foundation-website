@@ -129,7 +129,7 @@ title: Programs
         Your support helps us continue these vital programs that strengthen our Portland community
       </p>
       <div class="flex flex-col sm:flex-row gap-4 justify-center">
-        <a href="{{ "/donate" | relative_url }}" class="inline-flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-rose-600 bg-white hover:bg-gray-50 transition-colors">
+        <a href="https://square.link/u/dFfl21wY" class="inline-flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-rose-600 bg-white hover:bg-gray-50 transition-colors">
           Make a Donation
         </a>
         <a href="{{ "/volunteer" | relative_url }}" class="inline-flex items-center justify-center px-8 py-3 border-2 border-white text-base font-medium rounded-md text-white hover:bg-white hover:text-rose-600 transition-colors">

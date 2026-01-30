@@ -254,7 +254,7 @@ title: Rose Festival Support
         Your support helps maintain Portland's beloved Rose Festival traditions, from magnificent parade floats to princess programs that represent our city throughout the region.
       </p>
       <div class="flex flex-col sm:flex-row gap-4 justify-center">
-        <a href="{{ "/donate" | relative_url }}" class="inline-flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-rose-600 bg-white hover:bg-gray-50 transition-colors focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-rose-600">
+        <a href="https://www.rosefestival.org/p/get-involved/donate" class="inline-flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-rose-600 bg-white hover:bg-gray-50 transition-colors focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-rose-600">
           Support Rose Festival
         </a>
         <a href="https://www.rosefestival.org/" target="_blank" rel="noopener" class="inline-flex items-center justify-center px-8 py-3 border-2 border-white text-base font-medium rounded-md text-white hover:bg-white hover:text-rose-600 transition-colors focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-rose-600">

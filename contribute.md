@@ -33,7 +33,7 @@ title: Contribute
             Make a single gift or join our Sustained Giving Program. Your direct support goes toward building a stronger, equal, and more vibrant Portland through our community programs.
           </p>
           <div class="text-center">
-            <a href="{{ "/donate" | relative_url }}" class="inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-rose-600 hover:bg-rose-700 transition-colors focus:outline-none focus:ring-2 focus:ring-rose-500 focus:ring-offset-2">
+            <a href="https://square.link/u/dFfl21wY" class="inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-rose-600 hover:bg-rose-700 transition-colors focus:outline-none focus:ring-2 focus:ring-rose-500 focus:ring-offset-2">
               Make a Donation
             </a>
           </div>
@@ -179,7 +179,7 @@ title: Contribute
         Every contribution, large or small, helps us support at-risk children, preserve Portland traditions, promote rose cultivation, and inspire community pride.
       </p>
       <div class="flex flex-col sm:flex-row gap-4 justify-center">
-        <a href="{{ "/donate" | relative_url }}" class="inline-flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-rose-600 bg-white hover:bg-gray-50 transition-colors focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-rose-600">
+        <a href="https://square.link/u/dFfl21wY" class="inline-flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-rose-600 bg-white hover:bg-gray-50 transition-colors focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-rose-600">
           Donate Now
         </a>
         <a href="{{ "/contact" | relative_url }}" class="inline-flex items-center justify-center px-8 py-3 border-2 border-white text-base font-medium rounded-md text-white hover:bg-white hover:text-rose-600 transition-colors focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-rose-600">
