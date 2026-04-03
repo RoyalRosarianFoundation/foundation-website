@@ -85,20 +85,6 @@ title: Impact Report
         <div class="flex items-start">
           <div class="flex-shrink-0 bg-rose-100 rounded-full p-3">
             <svg class="h-6 w-6 text-rose-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
-            </svg>
-          </div>
-          <div class="ml-4">
-            <h3 class="text-xl font-bold text-gray-900">Float Logistics & Security</h3>
-            <p class="mt-2 text-gray-600">We escort floats from the warehouse to the staging area, manage the line-up prior to the parade, and provide dedicated security before the parade begins.</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="bg-white p-8 rounded-lg shadow-sm border border-gray-100">
-        <div class="flex items-start">
-          <div class="flex-shrink-0 bg-rose-100 rounded-full p-3">
-            <svg class="h-6 w-6 text-rose-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197M13 7a4 4 0 11-8 0 4 4 0 018 0z" />
             </svg>
           </div>
@@ -165,7 +151,7 @@ title: Impact Report
         </div>
       </div>
 
-      <div class="bg-white p-8 rounded-lg shadow-sm border border-gray-100 md:col-span-2">
+      <div class="bg-white p-8 rounded-lg shadow-sm border border-gray-100">
         <div class="flex items-start">
           <div class="flex-shrink-0 bg-rose-100 rounded-full p-3">
             <svg class="h-6 w-6 text-rose-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
