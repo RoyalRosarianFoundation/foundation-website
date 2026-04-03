@@ -17,13 +17,13 @@ title: Programs
     <!-- Children Programs -->
     <div class="mb-20">
       <h2 class="text-3xl font-bold text-gray-900 mb-12 text-center">Supporting Children</h2>
-      <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
         
         <div class="bg-white border border-gray-200 rounded-lg shadow-sm overflow-hidden">
           <img src="{{ "/assets/images/activities/transitional-school.png" | relative_url }}" alt="Transitional School" class="w-full h-48 object-cover">
           <div class="p-6">
             <h3 class="text-xl font-semibold text-gray-900 mb-3">Community Transitional School</h3>
-            <p class="text-gray-600 mb-4">Year-round education for houseless children Pre-K through 8th grade, with transportation and specialized support services.</p>
+            <p class="text-gray-600 mb-4">The Community Transitional School offers pre-K through eighth-grade classes to homeless children throughout the Portland area. We provide funds to support a teacher's aide and donate school supplies throughout the year.</p>
             <div class="flex items-center justify-between">
               <div class="flex items-center text-rose-600 text-sm font-medium">
                 <span class="mr-2">Pre-K - 8th Grade</span>
@@ -43,7 +43,7 @@ title: Programs
           </div>
           <div class="p-6">
             <h3 class="text-xl font-semibold text-gray-900 mb-3">Field Trip Program</h3>
-            <p class="text-gray-600 mb-4">Transportation funding for educational field trips since 2007, serving 4 school districts with $30,000+ donated annually.</p>
+            <p class="text-gray-600 mb-4">Since 2007, we've funded transportation for offsite educational enrichment for at-risk children in PPS, David Douglas, Hillsboro, and Reynolds districts, donating over $30,000 annually.</p>
             <div class="flex items-center justify-between">
               <div class="flex items-center text-rose-600 text-sm font-medium">
                 <span class="mr-2">$30,000+ Annual Funding</span>
@@ -51,22 +51,6 @@ title: Programs
               <a href="{{ "/field-trips" | relative_url }}" class="text-rose-600 hover:text-rose-500 text-sm font-medium">
                 Learn More →
               </a>
-            </div>
-          </div>
-        </div>
-
-        <div class="bg-white border border-gray-200 rounded-lg shadow-sm overflow-hidden">
-          <div class="bg-rose-100 h-48 flex items-center justify-center">
-            <svg class="h-16 w-16 text-rose-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v13m0-13V6a2 2 0 112 2v2m-2 0V8.5z"/>
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 13l-4-4-4 4"/>
-            </svg>
-          </div>
-          <div class="p-6">
-            <h3 class="text-xl font-semibold text-gray-900 mb-3">Christmas for Kids</h3>
-            <p class="text-gray-600 mb-4">Holiday support program providing gifts and shopping experiences for children in need during the Christmas season.</p>
-            <div class="flex items-center text-rose-600 text-sm font-medium">
-              <span class="mr-2">Annual Program</span>
             </div>
           </div>
         </div>
@@ -82,7 +66,7 @@ title: Programs
           <img src="{{ "/assets/images/events/milk-carton-boat-race.jpg" | relative_url }}" alt="Milk Carton Boat Race" class="w-full h-64 object-cover">
           <div class="p-6">
             <h3 class="text-2xl font-semibold text-gray-900 mb-3">Milk Carton Boat Race</h3>
-            <p class="text-gray-600 mb-4">Fun community event at Westmoreland Park where participants build boats out of milk cartons and race them. A beloved Portland tradition that brings families together.</p>
+            <p class="text-gray-600 mb-4">A beloved FREE Rose Festival tradition since 2016. Held on the fourth Sunday of June at Westmoreland Park, it highlights the creativity of youth building and racing handmade boats.</p>
             <div class="flex items-center text-rose-600 text-sm font-medium">
               <span class="mr-2">📍 Westmoreland Park</span>
             </div>
@@ -93,10 +77,10 @@ title: Programs
           <img src="{{ "/assets/images/events/grand-floral-parade.jpg" | relative_url }}" alt="Grand Floral Parade" class="w-full h-64 object-cover">
           <div class="p-6">
             <h3 class="text-2xl font-semibold text-gray-900 mb-3">Rose Festival Support</h3>
-            <p class="text-gray-600 mb-4">Comprehensive Rose Festival support including Grand Floral floats, princess travel programs, traveling float tours, and Living History presentations.</p>
+            <p class="text-gray-600 mb-4">We enter a large float in the Grand Floral Parade and a traveling float in dozens of NW parades. We also provide grants for the Royal Court's transportation and host the Queens' Garden Party.</p>
             <div class="flex items-center justify-between">
               <div class="flex items-center text-rose-600 text-sm font-medium">
-                <span class="mr-2">🌹 4 Major Programs</span>
+                <span class="mr-2">🌹 Comprehensive Support</span>
               </div>
               <a href="{{ "/rose-festival" | relative_url }}" class="text-rose-600 hover:text-rose-500 text-sm font-medium">
                 Learn More →
@@ -105,7 +89,7 @@ title: Programs
           </div>
         </div>
 
-        <div class="bg-white border border-gray-200 rounded-lg shadow-sm overflow-hidden lg:col-span-2">
+        <div class="bg-white border border-gray-200 rounded-lg shadow-sm overflow-hidden">
           <div class="bg-rose-100 h-48 flex items-center justify-center">
             <svg class="h-16 w-16 text-rose-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 21l8-11-8-11v22zM16 21l8-11-8-11v22z"/>
@@ -113,9 +97,24 @@ title: Programs
           </div>
           <div class="p-6">
             <h3 class="text-2xl font-semibold text-gray-900 mb-3">Rose Garden Contest</h3>
-            <p class="text-gray-600 mb-4">Celebrating Portland's rose heritage by recognizing exceptional rose gardens throughout the community. Winners are honored for their contribution to Portland's beautiful landscape.</p>
+            <p class="text-gray-600 mb-4">For 87 years, this FREE event has encouraged rose growers across the community. Winners are celebrated at an awards ceremony in June at the Washington Park Rose Garden.</p>
             <div class="flex items-center text-rose-600 text-sm font-medium">
-              <span class="mr-2">🏆 Community Recognition</span>
+              <span class="mr-2">🏆 87-Year Tradition</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="bg-white border border-gray-200 rounded-lg shadow-sm overflow-hidden">
+          <div class="bg-rose-100 h-48 flex items-center justify-center">
+            <svg class="h-16 w-16 text-rose-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 002 2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+          </div>
+          <div class="p-6">
+            <h3 class="text-2xl font-semibold text-gray-900 mb-3">Sister Cities</h3>
+            <p class="text-gray-600 mb-4">We assist the Portland Sister Cities Association with their City Hall reception and provide financial aid to international marching bands participating in the Grand Floral Parade.</p>
+            <div class="flex items-center text-rose-600 text-sm font-medium">
+              <span class="mr-2">🌍 Global Reach</span>
             </div>
           </div>
         </div>
