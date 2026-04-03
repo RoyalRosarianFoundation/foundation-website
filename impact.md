@@ -90,7 +90,7 @@ title: Impact Report
           </div>
           <div class="ml-4">
             <h3 class="text-xl font-bold text-gray-900">Honorary Knighting</h3>
-            <p class="mt-2 text-gray-600">The Rosarians honor dignitaries chosen by the Mayor, the RRF, and the Prime Minister through traditional Knighting ceremonies, maintaining the heritage of the festival.</p>
+            <p class="mt-2 text-gray-600">The Rosarians honor dignitaries recommended by the Prime Minister and Rose Festival Foundation through traditional Knighting ceremonies, celebrating outstanding subjects of the Realm of Rosaria.</p>
           </div>
         </div>
       </div>
