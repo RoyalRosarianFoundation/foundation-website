@@ -100,10 +100,10 @@ title: Home
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="text-center">
       <h2 class="text-3xl font-bold text-gray-900 sm:text-4xl">Make an Impact</h2>
-      <p class="mt-4 text-lg text-gray-600">Discover how we support children, community, and members</p>
+      <p class="mt-4 text-lg text-gray-600">Discover how we support children and our community</p>
     </div>
     
-    <div class="mt-12 grid grid-cols-1 gap-12 lg:grid-cols-3">
+    <div class="mt-12 grid grid-cols-1 gap-12 lg:grid-cols-2">
       <!-- Children Programs -->
       <div>
         <h3 class="text-xl font-semibold text-gray-900 mb-6">Children</h3>
@@ -118,12 +118,6 @@ title: Home
             <a href="{{ "/field-trips" | relative_url }}" class="block p-4 rounded-lg bg-rose-50 hover:bg-rose-100 transition-colors">
               <h4 class="font-medium text-gray-900">Field Trip Program</h4>
               <p class="text-sm text-gray-600 mt-1">Transportation funding for educational experiences since 2007</p>
-            </a>
-          </li>
-          <li>
-            <a href="{{ "/programs/christmas-for-kids" | relative_url }}" class="block p-4 rounded-lg bg-rose-50 hover:bg-rose-100 transition-colors">
-              <h4 class="font-medium text-gray-900">Christmas for Kids</h4>
-              <p class="text-sm text-gray-600 mt-1">Holiday support program</p>
             </a>
           </li>
         </ul>
@@ -149,31 +143,6 @@ title: Home
             <a href="{{ "/rose-festival" | relative_url }}" class="block p-4 rounded-lg bg-rose-50 hover:bg-rose-100 transition-colors">
               <h4 class="font-medium text-gray-900">Rose Festival Support</h4>
               <p class="text-sm text-gray-600 mt-1">Grand Floral floats, princess travel, and historical programs</p>
-            </a>
-          </li>
-        </ul>
-      </div>
-      
-      <!-- Member Programs -->
-      <div>
-        <h3 class="text-xl font-semibold text-gray-900 mb-6">Members</h3>
-        <ul class="space-y-4">
-          <li>
-            <a href="{{ "/programs/clothing-closet" | relative_url }}" class="block p-4 rounded-lg bg-rose-50 hover:bg-rose-100 transition-colors">
-              <h4 class="font-medium text-gray-900">Clothing Closet</h4>
-              <p class="text-sm text-gray-600 mt-1">Supporting community members in need</p>
-            </a>
-          </li>
-          <li>
-            <a href="https://royalrosariansfdn.ejoinme.org/Home26" target="_blank" rel="noopener" class="block p-4 rounded-lg bg-rose-50 hover:bg-rose-100 transition-colors">
-              <h4 class="font-medium text-gray-900">Annual Auction ↗</h4>
-              <p class="text-sm text-gray-600 mt-1">2025 Theme: "Luck of the Irish"</p>
-            </a>
-          </li>
-          <li>
-            <a href="{{ "/membership" | relative_url }}" class="block p-4 rounded-lg bg-rose-50 hover:bg-rose-100 transition-colors">
-              <h4 class="font-medium text-gray-900">Join the Rosarians</h4>
-              <p class="text-sm text-gray-600 mt-1">Become part of our community service organization</p>
             </a>
           </li>
         </ul>
