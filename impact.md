@@ -5,11 +5,8 @@ title: Impact Report
 
 <!-- Hero Section -->
 <section class="relative bg-gradient-to-r from-rose-50 to-pink-50 py-16 lg:py-24 overflow-hidden">
-  <div class="absolute inset-0 z-0 text-center opacity-10 flex items-center justify-center">
-    <svg class="h-96 w-96 text-rose-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M12 21a9.003 9.003 0 008.367-5.657C20.735 14.162 22 12.214 22 10c0-2.21-1.79-4-4-4-1.213 0-2.296.54-3.033 1.385C14.23 6.54 13.147 6 12 6s-2.23.54-2.967 1.385C8.296 6.54 7.213 6 6 6 3.79 6 2 7.79 2 10c0 2.214 1.265 4.162 1.633 5.343A9.003 9.003 0 0012 21z M12 6v15 M7 10h10" />
-        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M12 2c0 0-4 4-4 8s4 8 4 8 4-4 4-8-4-8-4-8z" />
-    </svg>
+  <div class="absolute inset-0 z-0">
+    <img src="{{ "/assets/images/misc/impact-hero.webp" | relative_url }}" alt="Royal Rosarians at USS Portland Commissioning" class="w-full h-full object-cover opacity-20">
   </div>
   <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="text-center">
@@ -54,8 +51,9 @@ title: Impact Report
           </svg>
         </div>
         <h3 class="mt-4 text-lg font-medium text-gray-900">Field Trip Program</h3>
-        <p class="mt-2 text-3xl font-bold text-rose-600">2,500+</p>
+        <p class="mt-2 text-3xl font-bold text-rose-600">226,923</p>
         <p class="text-sm text-gray-500">Students Reached</p>
+        <p class="text-xs text-gray-400 mt-1">2007-2025 • $465,000 spent</p>
       </div>
       
       <div class="text-center p-6 bg-rose-50 rounded-xl">
@@ -65,8 +63,8 @@ title: Impact Report
           </svg>
         </div>
         <h3 class="mt-4 text-lg font-medium text-gray-900">Community Programs</h3>
-        <p class="mt-2 text-3xl font-bold text-rose-600">15+</p>
-        <p class="text-sm text-gray-500">Active Initiatives</p>
+        <p class="mt-2 text-3xl font-bold text-rose-600">Over 100 years</p>
+        <p class="text-sm text-gray-500">community events</p>
       </div>
     </div>
   </div>

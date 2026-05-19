@@ -24,25 +24,30 @@ Based on content audit comparison between original and edited versions.
   - [ ] CTS (Community Transitional School) photos
   - [ ] Pictures of Rosarians with kids
 
-## Programs Page Updates (programs.md)
+## Programs Page Updates (programs.md) ✅ COMPLETED
 
 ### Section Headers
-- [ ] Update main heading to "Supporting children and the greater Portland community"
-- [ ] Change "Community Events" section to "Portland Events"
+- [x] Update main heading to "Supporting children and the greater Portland community"
+- [x] Change "Community Events" section to "Portland Events"
 
 ### Content Updates
-- [ ] **Community Transitional School**: Change "homeless children" to "children experiencing housing insecurity"
-- [ ] **Field Trip Program**: 
-  - [ ] Update to "Since 2007, we've raised over $467,000 for offsite educational enrichment at 30+ schools and counting"
-  - [ ] Add "226,000+ children served"
-- [ ] **Milk Carton Boat Race**:
-  - [ ] Change start year from "since 2016" to "since 1973"
-  - [ ] Add website link: "Visit Website ->" https://www.royalrosarians.com/page/milk-carton-boat-race
-- [ ] **Add new Portland Rose Festival section**:
-  - [ ] Content: "We enter 2 floats in the Starlight Grand Floral Parade and a traveling float in dozens of NW parades. We also provide grants for the Rose Festival Princess Court"
-  - [ ] Add "Since 1959"
-- [ ] **Rose Garden Contest**: Change "For 87 years" to "Since 1938"
-- [ ] **Sister Cities**: Add "10 Sister Cities" detail
+- [x] **Community Transitional School**: Change "homeless children" to "children experiencing housing insecurity"
+- [x] **Field Trip Program**: 
+  - [x] Update to "Since 2007, we've raised over $467,000 for offsite educational enrichment at 30+ schools and counting"
+  - [x] Add "226,000+ children served"
+- [x] **Milk Carton Boat Race**:
+  - [x] Change start year from "since 2016" to "since 1973"
+  - [x] Add website link: "Visit Website ->" https://www.royalrosarians.com/page/milk-carton-boat-race
+- [x] **Portland Rose Festival section**:
+  - [x] Content: "We enter 2 floats in the Starlight Grand Floral Parade and a traveling float in dozens of NW parades. We also provide grants for the Rose Festival Princess Court"
+  - [x] Add "Since 1959"
+- [x] **Rose Garden Contest**: Change "For 87 years" to "Since 1938"
+- [x] **Sister Cities**: Add "10 Sister Cities" detail
+
+### Image Updates
+- [x] **Field Trip Program**: Added Jr-Parade-2014.jpg converted to WebP
+- [x] **Rose Garden Contest**: Added 2025 award ceremony group photo as WebP
+- [x] **Sister Cities**: Added 2025 reception photo as WebP
 
 ## Impact Report Updates (impact.md)
 
