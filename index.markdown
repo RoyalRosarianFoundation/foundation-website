@@ -59,7 +59,7 @@ title: Home
           </svg>
         </div>
         <h3 class="mt-4 text-lg font-medium text-gray-900">Field Trip Program</h3>
-        <p class="mt-2 text-3xl font-bold text-rose-600">2,500+</p>
+        <p class="mt-2 text-3xl font-bold text-rose-600">226,923</p>
         <p class="text-sm text-gray-500">Students Reached</p>
       </div>
       
@@ -70,8 +70,8 @@ title: Home
           </svg>
         </div>
         <h3 class="mt-4 text-lg font-medium text-gray-900">Community Programs</h3>
-        <p class="mt-2 text-3xl font-bold text-rose-600">15+</p>
-        <p class="text-sm text-gray-500">Active Initiatives</p>
+        <p class="mt-2 text-3xl font-bold text-rose-600">Over 100 years</p>
+        <p class="text-sm text-gray-500">community events</p>
       </div>
     </div>
   </div>
@@ -81,11 +81,11 @@ title: Home
 <section class="py-16 bg-gray-50">
   <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
     <h2 class="text-3xl font-bold text-gray-900 sm:text-4xl">Our Mission</h2>
+    <p class="mt-6 text-xl font-semibold text-rose-600">
+      "To facilitate the charitable activities of the Royal Rosarians"
+    </p>
     <p class="mt-8 text-lg text-gray-700 leading-relaxed">
       To provide financial support for programs and projects that improve the livability of the greater Portland community and promote or enable participation in the Portland Rose Festival. We fund programs to foster the education of young individuals through our Field Trip program and music scholarships, and serve the community through various historical activities that honor the Portland Rose Festival Foundation and the Royal Rosarians.
-    </p>
-    <p class="mt-6 text-xl font-semibold text-rose-600">
-      "Dedicated to enriching the community through charitable support, education, and the celebration of tradition."
     </p>
     <div class="mt-8">
       <a href="{{ "/about-us" | relative_url }}" class="inline-flex items-center justify-center px-6 py-3 border border-gray-300 text-base font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-rose-500 focus:ring-offset-2">
@@ -100,7 +100,7 @@ title: Home
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="text-center">
       <h2 class="text-3xl font-bold text-gray-900 sm:text-4xl">Make an Impact</h2>
-      <p class="mt-4 text-lg text-gray-600">Discover how we support children and our community</p>
+      <p class="mt-4 text-lg text-gray-600">Discover how we support childhood education and our community</p>
     </div>
     
     <div class="mt-12 grid grid-cols-1 gap-12 lg:grid-cols-2">
@@ -141,8 +141,8 @@ title: Home
           </li>
           <li>
             <a href="{{ "/rose-festival" | relative_url }}" class="block p-4 rounded-lg bg-rose-50 hover:bg-rose-100 transition-colors">
-              <h4 class="font-medium text-gray-900">Rose Festival Support</h4>
-              <p class="text-sm text-gray-600 mt-1">Grand Floral floats, princess travel, and historical programs</p>
+              <h4 class="font-medium text-gray-900">Rose Festival</h4>
+              <p class="text-sm text-gray-600 mt-1">Parade floats, princess travel, and recognizing 10 sister cities</p>
             </a>
           </li>
         </ul>
