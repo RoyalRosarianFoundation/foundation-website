@@ -69,16 +69,18 @@ This audit covers all main page content for the Royal Rosarian Foundation Jekyll
 
 ---
 
-### 2\. About Us/Leadership (about-us.md)
+### 2\. About Us/Leadership (about-us.md) ✅ IMPLEMENTED
 
-**Page Title:** Leadership
+**Page Title:** Our Legacy
 
-- Change Title to: Our Legacy  
-- We want this page to be more than just about the current leadership  
-- Put up a collage of past float pictures  
-- Add pictures of Foundation active in the community  
-  - CTS  
-  - Pictures of Rosarians with kids
+- [x] Change Title to: Our Legacy  
+- [x] We want this page to be more than just about the current leadership  
+- [x] Put up a collage of past float pictures (13 legacy images spanning 2010-2025)
+- [x] Add pictures of Foundation active in the community  
+  - [x] CTS activities
+  - [x] Pictures of Rosarians with kids
+  - [x] USS Portland commissioning ceremony
+  - [x] Mixed grid layout with featured and gallery images
 
 **Key Headings:**
 
@@ -121,66 +123,75 @@ This audit covers all main page content for the Royal Rosarian Foundation Jekyll
 - PO Box 8956, Portland OR 97207-8956  
 - [info@royalrosarians.org](mailto:info@royalrosarians.org)
 
-Remove Our History page
+- [x] Remove Our History page
 
-Add a Press Kit page
+### NEW: Press Kit page ✅ IMPLEMENTED
 
-- Inspired by [https://jewsforjesus.org/press-kit](https://jewsforjesus.org/press-kit)  
-- Sections  
-  - Recent Events  
-  - Press Resources  
-  - More Information section  
+- [x] Inspired by [https://jewsforjesus.org/press-kit](https://jewsforjesus.org/press-kit)  
+- [x] Sections  
+  - [x] Recent Events  
+  - [x] Press Resources  
+  - [x] More Information section
+- [x] Added to navigation menu (Connect section)
+- [x] Added to footer (Contact section)  
     
 
 ---
 
-### 3\. Programs (programs.md)
+### 3\. Programs (programs.md) ✅ IMPLEMENTED
 
 **Page Title:** Programs
 
 **Key Headings:**
 
-- "Supporting children and and the greater Portland community"  
-- "Supporting Children"  
-- "Community Events"  
-- "Get Involved"
+- [x] "Supporting children and the greater Portland community"  
+- [x] "Supporting Children"  
+- [x] "Portland Events" (was "Community Events")  
+- [x] "Get Involved"
 
 **Children Programs:**
 
 **Community Transitional School:**
 
-- "The Community Transitional School offers pre-K through eighth-grade classes to children experiencing housing insecurity throughout the Portland area. We provide funds to support a teacher's aide and donate school supplies throughout the year."  
+- [x] "The Community Transitional School offers pre-K through eighth-grade classes to children experiencing housing insecurity throughout the Portland area. We provide funds to support a teacher's aide and donate school supplies throughout the year."  
 - Grade Level: Pre-K \- 8th Grade
+- [x] Updated language from "homeless" to "housing insecurity"
 
 **Field Trip Program:**
 
-- "Since 2007, we've raised over $467,000 for offsite educational enrichment at 30+ schools and counting.."  
-- 226,000+ children served
+- [x] "Since 2007, we've raised over $467,000 for offsite educational enrichment at 30+ schools and counting.."  
+- [x] 226,000+ children served
+- [x] Added Jr-Parade-2014.jpg converted to WebP image
 
 **Community Events:**
 
-- **Change this to “Portland Events”**
+- [x] **Changed this to "Portland Events"**
 
 **Milk Carton Boat Race:**
 
-- "A beloved FREE Rose Festival tradition since 1973\. Held on the fourth Sunday of June at Westmoreland Park, it highlights the creativity of youth building and racing handmade boats."  
+- [x] "A beloved FREE Rose Festival tradition since 1973\. Held on the fourth Sunday of June at Westmoreland Park, it highlights the creativity of youth building and racing handmade boats."  
 - Location: Westmoreland Park  
-- Add  “Visit Website \-\>” : [https://www.royalrosarians.com/page/milk-carton-boat-race](https://www.royalrosarians.com/page/milk-carton-boat-race)
+- [x] Add  "Visit Website \->" : [https://www.royalrosarians.com/page/milk-carton-boat-race](https://www.royalrosarians.com/page/milk-carton-boat-race)
+- [x] Updated start year from 2016 to 1973
 
 **Portland Rose Festival:**
 
-- "We enter 2 floats in the Starlight Grand Floral Parade and a traveling float in dozens of NW parades. We also provide grants for the Rose Festival Princess Court"  
-- Since 1959
+- [x] "We enter 2 floats in the Starlight Grand Floral Parade and a traveling float in dozens of NW parades. We also provide grants for the Rose Festival Princess Court"  
+- [x] Since 1959
+- [x] New section added (was "Rose Festival Support")
 
 **Rose Garden Contest:**
 
-- "Since 1938, this FREE event has encouraged rose growers throughout Portland metropolitan area. Winners are celebrated at an awards ceremony in June at the Washington Park Rose Garden."  
-- Since 1938
+- [x] "Since 1938, this FREE event has encouraged rose growers throughout Portland metropolitan area. Winners are celebrated at an awards ceremony in June at the Washington Park Rose Garden."  
+- [x] Since 1938
+- [x] Added 2025 award ceremony group photo as WebP
+- [x] Updated from "For 87 years" to "Since 1938"
 
 **Sister Cities:**
 
-- "We assist the Portland Sister Cities Association with their City Hall reception and provide financial aid to international marching bands participating in the Grand Floral Parade."  
-- 10 Sister Cities
+- [x] "We assist the Portland Sister Cities Association with their City Hall reception and provide financial aid to international marching bands participating in the Grand Floral Parade."  
+- [x] 10 Sister Cities
+- [x] Added 2025 reception photo as WebP
 
 **Call to Action:** "Your support helps us continue these vital programs that strengthen our Portland community"
 
@@ -189,7 +200,7 @@ Add a Press Kit page
 
 ---
 
-### 4\. Impact Report (impact.md)
+### 4\. Impact Report (impact.md) ✅ IMPLEMENTED
 
 **Page Title:** Impact Report
 
@@ -205,10 +216,11 @@ Add a Press Kit page
 **Core Metrics:**
 
 - Transitional School: 500+ Students Supported  
-- Field Trip Program: 226,923 Students Reached  
-  - 2007-2025  
-  - Dollars Spent: $465,000  
-- Community Programs: 15+ Active Initiatives
+- [x] Field Trip Program: 226,923 Students Reached  
+  - [x] 2007-2025  
+  - [x] Dollars Spent: $465,000  
+- [x] Community Programs: Over 100 years community events (was "15+ Active Initiatives")
+- [x] Added USS Portland commissioning photo as hero background image
 
 **Service to Portland Rose Festival:**
 
