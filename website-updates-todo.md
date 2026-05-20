@@ -74,13 +74,14 @@ Based on content audit comparison between original and edited versions.
   - [ ] Press Resources
   - [ ] More Information
 
-## Page Removal
-- [ ] Remove Our History page
+## Page Removal ✅ COMPLETED
+- [x] Remove Our History page
 
-## Navigation Updates
-- [ ] Update navigation menu to replace "Leadership" with "Our Legacy"
-- [ ] Add "Press Kit" to navigation menu
-- [ ] Remove "Our History" from navigation menu
+## Navigation Updates ✅ COMPLETED
+- [x] Update navigation menu to replace "Leadership" with "Our Legacy"
+- [x] Add "Press Kit" to navigation menu (Connect section)
+- [x] Add "Press Kit" to footer (Contact section)
+- [x] Remove "Our History" from navigation menu
 
 ---
 
