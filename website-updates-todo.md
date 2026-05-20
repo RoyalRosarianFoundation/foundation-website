@@ -49,13 +49,17 @@ Based on content audit comparison between original and edited versions.
 - [x] **Rose Garden Contest**: Added 2025 award ceremony group photo as WebP
 - [x] **Sister Cities**: Added 2025 reception photo as WebP
 
-## Impact Report Updates (impact.md)
+## Impact Report Updates (impact.md) ✅ COMPLETED
 
 ### Metrics Updates
-- [ ] Update Field Trip Program metrics:
-  - [ ] Change to "226,923 Students Reached"
-  - [ ] Add timeframe "2007-2025"
-  - [ ] Add "Dollars Spent: $465,000"
+- [x] Update Field Trip Program metrics:
+  - [x] Change to "226,923 Students Reached"
+  - [x] Add timeframe "2007-2025"
+  - [x] Add "Dollars Spent: $465,000"
+- [x] Update Community Programs to "Over 100 years community events"
+
+### Hero Section Enhancement
+- [x] Replace SVG background with USS Portland commissioning photo
 
 ## New Page Creation
 

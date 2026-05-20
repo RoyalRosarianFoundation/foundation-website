@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Leadership
+title: Our Legacy
 ---
 
 <div class="bg-white py-16">
@@ -8,9 +8,126 @@ title: Leadership
     
     <!-- Header -->
     <div class="text-center mb-16">
-      <h1 class="text-4xl font-bold text-gray-900 sm:text-5xl">Leadership</h1>
+      <h1 class="text-4xl font-bold text-gray-900 sm:text-5xl">Our Legacy</h1>
       <p class="mt-6 text-xl text-gray-600 max-w-3xl mx-auto">
-        Meet the dedicated board members who guide the Royal Rosarian Foundation's mission to serve Portland
+        Over 100 years of community service, from Rose Festival traditions to supporting Portland's children through education and charitable programs
+      </p>
+    </div>
+
+    <!-- Legacy Photos Section -->
+    <div class="mb-16">
+      <h2 class="text-3xl font-bold text-gray-900 text-center mb-12">A Century of Service</h2>
+      
+      <!-- Foundation Activities -->
+      <div class="mb-12">
+        <h3 class="text-2xl font-semibold text-gray-900 mb-6">Foundation in the Community</h3>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          <!-- Placeholder for Community Transitional School photos -->
+          <div class="bg-rose-50 rounded-lg p-8 text-center">
+            <svg class="h-16 w-16 text-rose-500 mx-auto mb-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+            </svg>
+            <p class="text-gray-600 text-sm">Community Transitional School Support</p>
+          </div>
+          
+          <!-- Placeholder for Rosarians with kids -->
+          <div class="bg-rose-50 rounded-lg p-8 text-center">
+            <svg class="h-16 w-16 text-rose-500 mx-auto mb-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197M13 7a4 4 0 11-8 0 4 4 0 018 0z" />
+            </svg>
+            <p class="text-gray-600 text-sm">Rosarians with Children</p>
+          </div>
+          
+          <!-- Placeholder for Field Trip support -->
+          <div class="bg-rose-50 rounded-lg p-8 text-center">
+            <svg class="h-16 w-16 text-rose-500 mx-auto mb-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
+            </svg>
+            <p class="text-gray-600 text-sm">Educational Field Trip Support</p>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Rose Festival Legacy -->
+      <div class="mb-12">
+        <h3 class="text-2xl font-semibold text-gray-900 mb-6">Rose Festival Legacy</h3>
+        
+        <!-- Featured Images - Top Row -->
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-6">
+          <div class="overflow-hidden rounded-lg shadow-md">
+            <img src="{{ "/assets/images/legacy/grand-floral-2025.webp" | relative_url }}" alt="2025 Grand Floral Parade" class="w-full h-64 object-cover hover:scale-105 transition-transform duration-300">
+            <div class="p-3 bg-white">
+              <p class="text-sm font-medium text-gray-900">2025 Grand Floral Parade</p>
+            </div>
+          </div>
+          
+          <div class="overflow-hidden rounded-lg shadow-md">
+            <img src="{{ "/assets/images/legacy/grand-floral-2023.webp" | relative_url }}" alt="2023 Grand Floral Parade" class="w-full h-64 object-cover hover:scale-105 transition-transform duration-300">
+            <div class="p-3 bg-white">
+              <p class="text-sm font-medium text-gray-900">2023 Grand Floral Parade</p>
+            </div>
+          </div>
+          
+          <div class="overflow-hidden rounded-lg shadow-md">
+            <img src="{{ "/assets/images/legacy/uss-portland-commissioning-1.webp" | relative_url }}" alt="USS Portland Commissioning Ceremony" class="w-full h-64 object-cover hover:scale-105 transition-transform duration-300">
+            <div class="p-3 bg-white">
+              <p class="text-sm font-medium text-gray-900">USS Portland Commissioning</p>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Gallery Grid - Smaller Images -->
+        <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-3">
+          <div class="overflow-hidden rounded-lg shadow-sm">
+            <img src="{{ "/assets/images/legacy/grand-floral-2017.webp" | relative_url }}" alt="2017 Grand Floral Parade" class="w-full h-32 object-cover hover:scale-105 transition-transform duration-300">
+          </div>
+          
+          <div class="overflow-hidden rounded-lg shadow-sm">
+            <img src="{{ "/assets/images/legacy/grand-floral-2014.webp" | relative_url }}" alt="2014 Grand Floral Parade" class="w-full h-32 object-cover hover:scale-105 transition-transform duration-300">
+          </div>
+          
+          <div class="overflow-hidden rounded-lg shadow-sm">
+            <img src="{{ "/assets/images/legacy/coronation-parade-2011.webp" | relative_url }}" alt="2011 Coronation and Parade" class="w-full h-32 object-cover hover:scale-105 transition-transform duration-300">
+          </div>
+          
+          <div class="overflow-hidden rounded-lg shadow-sm">
+            <img src="{{ "/assets/images/legacy/grand-floral-2010-1.webp" | relative_url }}" alt="2010 Grand Floral Parade" class="w-full h-32 object-cover hover:scale-105 transition-transform duration-300">
+          </div>
+          
+          <div class="overflow-hidden rounded-lg shadow-sm">
+            <img src="{{ "/assets/images/legacy/grand-floral-2010-2.webp" | relative_url }}" alt="2010 Grand Floral Parade Float" class="w-full h-32 object-cover hover:scale-105 transition-transform duration-300">
+          </div>
+          
+          <div class="overflow-hidden rounded-lg shadow-sm">
+            <img src="{{ "/assets/images/legacy/grand-floral-2017-float.webp" | relative_url }}" alt="2017 Parade Float Detail" class="w-full h-32 object-cover hover:scale-105 transition-transform duration-300">
+          </div>
+          
+          <div class="overflow-hidden rounded-lg shadow-sm">
+            <img src="{{ "/assets/images/legacy/grand-floral-2023-detail.webp" | relative_url }}" alt="2023 Parade Detail" class="w-full h-32 object-cover hover:scale-105 transition-transform duration-300">
+          </div>
+          
+          <div class="overflow-hidden rounded-lg shadow-sm">
+            <img src="{{ "/assets/images/legacy/grand-floral-2010-3.webp" | relative_url }}" alt="2010 Parade Participants" class="w-full h-32 object-cover hover:scale-105 transition-transform duration-300">
+          </div>
+          
+          <div class="overflow-hidden rounded-lg shadow-sm">
+            <img src="{{ "/assets/images/legacy/community-activities-2011.webp" | relative_url }}" alt="2011 Community Activities" class="w-full h-32 object-cover hover:scale-105 transition-transform duration-300">
+          </div>
+          
+          <div class="overflow-hidden rounded-lg shadow-sm">
+            <img src="{{ "/assets/images/legacy/rosarians-with-children-2011.webp" | relative_url }}" alt="Rosarians with Children 2011" class="w-full h-32 object-cover hover:scale-105 transition-transform duration-300">
+          </div>
+        </div>
+        
+        <p class="text-gray-600 text-center mt-6">Over 15 years of continuous Rose Festival participation and community service</p>
+      </div>
+    </div>
+
+    <!-- Current Leadership Section -->
+    <div class="mb-16">
+      <h2 class="text-3xl font-bold text-gray-900 text-center mb-8">Current Leadership</h2>
+      <p class="text-gray-600 text-center mb-12 max-w-3xl mx-auto">
+        The Foundation is guided by a dedicated board of Royal Rosarians committed to continuing our century-long tradition of community service.
       </p>
     </div>
 
