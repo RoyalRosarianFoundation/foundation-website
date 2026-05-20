@@ -15,14 +15,17 @@ Based on content audit comparison between original and edited versions.
 - [x] Change "Rose Festival Support" to "Rose Festival"
 - [x] Add "10 sister cities" detail to Rose Festival section: "Parade floats, princess travel, and recognizing 10 sister cities"
 
-## About Us Page → Our Legacy Page Restructure
+## About Us Page → Our Legacy Page Restructure ✅ COMPLETED
 
 ### Page Restructure
-- [ ] Change page title from "Leadership" to "Our Legacy"
-- [ ] Add collage of past float pictures
-- [ ] Add photos of Foundation activities in community:
-  - [ ] CTS (Community Transitional School) photos
-  - [ ] Pictures of Rosarians with kids
+- [x] Change page title from "Leadership" to "Our Legacy"
+- [x] Updated header content to emphasize 100+ years of community service
+- [x] Added "A Century of Service" section with Foundation activities
+- [x] Added "Rose Festival Legacy" section with mixed grid layout:
+  - [x] 3 featured images: 2025 Grand Floral, 2023 Grand Floral, USS Portland Commissioning
+  - [x] 10 gallery images spanning 2010-2025 showing continuous participation
+- [x] Reorganized current leadership as subsection under broader legacy theme
+- [x] Optimized 13 legacy images (1.9MB total) showing Foundation's history
 
 ## Programs Page Updates (programs.md) ✅ COMPLETED
 
