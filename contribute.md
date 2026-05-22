@@ -7,18 +7,70 @@ title: Contribute
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     
     <!-- Header -->
-    <div class="text-center mb-16">
+    <div class="text-center mb-12">
       <h1 class="text-4xl font-bold text-gray-900 sm:text-5xl">Contribute</h1>
       <p class="mt-6 text-xl text-gray-600 max-w-3xl mx-auto">
-        Join us in building a stronger, equal, and more vibrant Portland. Your support directly impacts our community through meaningful programs and initiatives.
+        Together, we can reach ambitious goals for Portland's children, its teachers, and its most beloved traditions. Here's what we're working toward — and how you can help us get there.
       </p>
+    </div>
+
+    <!-- Aspirational Goals -->
+    <div class="mb-16">
+      <div class="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
+
+        <!-- 250K Field Trip Milestone -->
+        <div class="text-center">
+          <div class="flex items-center justify-center h-16 w-16 rounded-md bg-rose-500 text-white mx-auto">
+            <svg class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+            </svg>
+          </div>
+          <h3 class="mt-4 text-lg font-medium text-gray-900">Field Trip Program</h3>
+          <p class="mt-2 text-3xl font-bold text-rose-600">250,000</p>
+          <p class="text-sm text-gray-500 mt-1">Students — Our Next Milestone</p>
+          <p class="mt-3 text-gray-600 text-sm">We've reached over 226,000 students. Help us cross the quarter-million mark and give more Portland kids the experience of a lifetime.</p>
+        </div>
+
+        <!-- Community Transitional School -->
+        <div class="text-center">
+          <div class="flex items-center justify-center h-16 w-16 rounded-md bg-rose-500 text-white mx-auto">
+            <svg class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0z" />
+            </svg>
+          </div>
+          <h3 class="mt-4 text-lg font-medium text-gray-900">Community Transitional School</h3>
+          <p class="mt-2 text-3xl font-bold text-rose-600">More Teachers</p>
+          <p class="text-sm text-gray-500 mt-1">In Classrooms That Need Them</p>
+          <p class="mt-3 text-gray-600 text-sm">Your support funds dedicated educators for Portland's most vulnerable students — helping families experiencing homelessness get the stability a great classroom provides.</p>
+        </div>
+
+        <!-- Rose Festival -->
+        <div class="text-center">
+          <div class="flex items-center justify-center h-16 w-16 rounded-md bg-rose-500 text-white mx-auto">
+            <svg class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+            </svg>
+          </div>
+          <h3 class="mt-4 text-lg font-medium text-gray-900">Rose Festival</h3>
+          <p class="mt-2 text-3xl font-bold text-rose-600">Expanding</p>
+          <p class="text-sm text-gray-500 mt-1">Programming & Community Events</p>
+          <p class="mt-3 text-gray-600 text-sm">Since 1912, Rosarians have been the heart of Portland's Rose Festival. Help us grow our presence, deepen our programming, and keep this beloved tradition thriving.</p>
+        </div>
+
+      </div>
+
+      <div class="text-center mt-10">
+        <a href="{{ "/impact-report" | relative_url }}" class="inline-flex items-center justify-center px-6 py-3 border border-gray-300 text-base font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 transition-colors focus:outline-none focus:ring-2 focus:ring-rose-500 focus:ring-offset-2">
+          See Our Full Impact Report
+        </a>
+      </div>
     </div>
 
     <!-- Donation Options -->
     <div class="mb-16">
       <h2 class="text-3xl font-bold text-gray-900 text-center mb-12">Ways to Give</h2>
       
-      <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
         <!-- Single Gift / Sustained Giving -->
         <div class="bg-rose-50 rounded-lg p-8">
           <div class="text-center mb-6">
@@ -61,79 +113,24 @@ title: Contribute
             </a>
           </div>
         </div>
-      </div>
-    </div>
 
-    <!-- Order of the Chalice -->
-    <div class="mb-16">
-      <h2 class="text-3xl font-bold text-gray-900 text-center mb-8">Order of the Chalice</h2>
-      <p class="text-center text-gray-600 mb-12 max-w-2xl mx-auto">
-        Our donor recognition program honors those who make significant contributions to the Royal Rosarian Foundation's mission.
-      </p>
-      
-      <div class="space-y-4">
-        <!-- King Richard's Champion -->
-        <div class="bg-gradient-to-r from-yellow-50 to-yellow-100 border border-yellow-200 rounded-lg p-6">
-          <div class="flex items-center justify-between">
-            <div>
-              <h3 class="text-xl font-bold text-yellow-800">King Richard's Champion</h3>
-              <p class="text-yellow-700 text-sm mt-1">The highest level of recognition</p>
+        <!-- Volunteer -->
+        <div class="bg-green-50 rounded-lg p-8">
+          <div class="text-center mb-6">
+            <div class="w-16 h-16 mx-auto mb-4 bg-green-600 rounded-full flex items-center justify-center">
+              <svg class="w-8 h-8 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0z"/>
+              </svg>
             </div>
-            <div class="text-right">
-              <span class="text-2xl font-bold text-yellow-800">$100,000+</span>
-            </div>
+            <h3 class="text-2xl font-semibold text-gray-900 mb-3">Volunteer</h3>
           </div>
-        </div>
-
-        <!-- Gallant of Gwenevere -->
-        <div class="bg-gradient-to-r from-purple-50 to-purple-100 border border-purple-200 rounded-lg p-6">
-          <div class="flex items-center justify-between">
-            <div>
-              <h3 class="text-xl font-bold text-purple-800">Gallant of Gwenevere</h3>
-              <p class="text-purple-700 text-sm mt-1">Noble supporter of our cause</p>
-            </div>
-            <div class="text-right">
-              <span class="text-2xl font-bold text-purple-800">$50,000 - $99,999</span>
-            </div>
-          </div>
-        </div>
-
-        <!-- Order of Sir Lancelot -->
-        <div class="bg-gradient-to-r from-blue-50 to-blue-100 border border-blue-200 rounded-lg p-6">
-          <div class="flex items-center justify-between">
-            <div>
-              <h3 class="text-xl font-bold text-blue-800">Order of Sir Lancelot</h3>
-              <p class="text-blue-700 text-sm mt-1">Steadfast community champion</p>
-            </div>
-            <div class="text-right">
-              <span class="text-2xl font-bold text-blue-800">$25,000 - $49,999</span>
-            </div>
-          </div>
-        </div>
-
-        <!-- Order of Sir Galahad -->
-        <div class="bg-gradient-to-r from-green-50 to-green-100 border border-green-200 rounded-lg p-6">
-          <div class="flex items-center justify-between">
-            <div>
-              <h3 class="text-xl font-bold text-green-800">Order of Sir Galahad</h3>
-              <p class="text-green-700 text-sm mt-1">Dedicated Portland supporter</p>
-            </div>
-            <div class="text-right">
-              <span class="text-2xl font-bold text-green-800">$10,000 - $24,999</span>
-            </div>
-          </div>
-        </div>
-
-        <!-- Robin Hood's Band -->
-        <div class="bg-gradient-to-r from-rose-50 to-rose-100 border border-rose-200 rounded-lg p-6">
-          <div class="flex items-center justify-between">
-            <div>
-              <h3 class="text-xl font-bold text-rose-800">Robin Hood's Band</h3>
-              <p class="text-rose-700 text-sm mt-1">Community-minded contributor</p>
-            </div>
-            <div class="text-right">
-              <span class="text-2xl font-bold text-rose-800">$5,000 - $9,999</span>
-            </div>
+          <p class="text-gray-600 mb-6">
+            Give your time and talents to support our mission. Volunteers are the heart of what we do — from event support to community outreach, there are many ways to get involved.
+          </p>
+          <div class="text-center">
+            <a href="{{ "/contact" | relative_url }}" class="inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-green-600 hover:bg-green-700 transition-colors focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2">
+              Get Involved
+            </a>
           </div>
         </div>
       </div>
@@ -168,6 +165,58 @@ title: Contribute
           <p class="text-gray-600 text-sm">
             Use Bottle Drop Blue Bags and drop them at collection locations like Fred Meyer stores. The recycling proceeds support our programs.
           </p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Share Our Story -->
+    <div class="mb-16">
+      <h2 class="text-3xl font-bold text-gray-900 text-center mb-4">Share Our Story</h2>
+      <p class="text-center text-gray-600 mb-12 max-w-2xl mx-auto">
+        One of the most powerful ways to support us is simply by spreading the word. Follow us, share our posts, and help Portland know what the Royal Rosarian Foundation is all about.
+      </p>
+
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <!-- Facebook -->
+        <div class="bg-white border border-gray-200 rounded-lg p-6 text-center hover:shadow-md transition-shadow">
+          <div class="w-16 h-16 mx-auto mb-4 bg-blue-100 rounded-full flex items-center justify-center">
+            <svg class="w-8 h-8 text-blue-600" fill="currentColor" viewBox="0 0 24 24">
+              <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
+            </svg>
+          </div>
+          <h3 class="text-lg font-semibold text-gray-900 mb-2">Facebook</h3>
+          <p class="text-gray-600 text-sm mb-4">Follow our page and share our posts with your network to help us reach more of Portland.</p>
+          <a href="https://www.facebook.com/royalrosarianfoundation" target="_blank" rel="noopener noreferrer" class="inline-flex items-center justify-center px-4 py-2 border border-blue-600 text-sm font-medium rounded-md text-blue-600 hover:bg-blue-600 hover:text-white transition-colors">
+            Follow Us
+          </a>
+        </div>
+
+        <!-- Instagram -->
+        <div class="bg-white border border-gray-200 rounded-lg p-6 text-center hover:shadow-md transition-shadow">
+          <div class="w-16 h-16 mx-auto mb-4 bg-pink-100 rounded-full flex items-center justify-center">
+            <svg class="w-8 h-8 text-pink-600" fill="currentColor" viewBox="0 0 24 24">
+              <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"/>
+            </svg>
+          </div>
+          <h3 class="text-lg font-semibold text-gray-900 mb-2">Instagram</h3>
+          <p class="text-gray-600 text-sm mb-4">Follow us on Instagram and tag us in your Rose Festival photos using <strong>#RoyalRosarians</strong>.</p>
+          <a href="https://www.instagram.com/royalrosarianfoundation" target="_blank" rel="noopener noreferrer" class="inline-flex items-center justify-center px-4 py-2 border border-pink-600 text-sm font-medium rounded-md text-pink-600 hover:bg-pink-600 hover:text-white transition-colors">
+            Follow Us
+          </a>
+        </div>
+
+        <!-- Spread the Word -->
+        <div class="bg-white border border-gray-200 rounded-lg p-6 text-center hover:shadow-md transition-shadow">
+          <div class="w-16 h-16 mx-auto mb-4 bg-rose-100 rounded-full flex items-center justify-center">
+            <svg class="w-8 h-8 text-rose-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.684 13.342C8.886 12.938 9 12.482 9 12c0-.482-.114-.938-.316-1.342m0 2.684a3 3 0 110-2.684m0 2.684l6.632 3.316m-6.632-6l6.632-3.316m0 0a3 3 0 105.367-2.684 3 3 0 00-5.367 2.684zm0 9.316a3 3 0 105.368 2.684 3 3 0 00-5.368-2.684z"/>
+            </svg>
+          </div>
+          <h3 class="text-lg font-semibold text-gray-900 mb-2">Spread the Word</h3>
+          <p class="text-gray-600 text-sm mb-4">Tell your friends, family, and colleagues about the Royal Rosarian Foundation and the work we do in Portland.</p>
+          <a href="{{ "/press-kit" | relative_url }}" class="inline-flex items-center justify-center px-4 py-2 border border-rose-600 text-sm font-medium rounded-md text-rose-600 hover:bg-rose-600 hover:text-white transition-colors">
+            Press Kit
+          </a>
         </div>
       </div>
     </div>
