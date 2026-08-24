@@ -186,7 +186,7 @@ title: Contribute
           </div>
           <h3 class="text-lg font-semibold text-gray-900 mb-2">Facebook</h3>
           <p class="text-gray-600 text-sm mb-4">Follow our page and share our posts with your network to help us reach more of Portland.</p>
-          <a href="https://www.facebook.com/royalrosarianfoundation" target="_blank" rel="noopener noreferrer" class="inline-flex items-center justify-center px-4 py-2 border border-blue-600 text-sm font-medium rounded-md text-blue-600 hover:bg-blue-600 hover:text-white transition-colors">
+          <a href="https://www.facebook.com/Portland.RoyalRosarians" target="_blank" rel="noopener noreferrer" class="inline-flex items-center justify-center px-4 py-2 border border-blue-600 text-sm font-medium rounded-md text-blue-600 hover:bg-blue-600 hover:text-white transition-colors">
             Follow Us
           </a>
         </div>
@@ -200,7 +200,7 @@ title: Contribute
           </div>
           <h3 class="text-lg font-semibold text-gray-900 mb-2">Instagram</h3>
           <p class="text-gray-600 text-sm mb-4">Follow us on Instagram and tag us in your Rose Festival photos using <strong>#RoyalRosarians</strong>.</p>
-          <a href="https://www.instagram.com/royalrosarianfoundation" target="_blank" rel="noopener noreferrer" class="inline-flex items-center justify-center px-4 py-2 border border-pink-600 text-sm font-medium rounded-md text-pink-600 hover:bg-pink-600 hover:text-white transition-colors">
+          <a href="https://www.instagram.com/royalrosarians/" target="_blank" rel="noopener noreferrer" class="inline-flex items-center justify-center px-4 py-2 border border-pink-600 text-sm font-medium rounded-md text-pink-600 hover:bg-pink-600 hover:text-white transition-colors">
             Follow Us
           </a>
         </div>
