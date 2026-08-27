@@ -228,8 +228,8 @@ title: Contribute
         Every contribution, large or small, helps us support at-risk children, preserve Portland traditions, promote rose cultivation, and inspire community pride.
       </p>
       <div class="flex flex-col sm:flex-row gap-4 justify-center">
-        <a href="https://square.link/u/dFfl21wY" class="inline-flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-rose-600 bg-white hover:bg-gray-50 transition-colors focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-rose-600">
-          Donate Now
+        <a href="https://square.link/u/dFfl21wY" target="_blank" rel="noopener" class="inline-flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-rose-600 bg-white hover:bg-gray-50 transition-colors focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-rose-600">
+          Donate on Square ↗
         </a>
         <a href="{{ "/contact" | relative_url }}" class="inline-flex items-center justify-center px-8 py-3 border-2 border-white text-base font-medium rounded-md text-white hover:bg-white hover:text-rose-600 transition-colors focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-rose-600">
           Contact Us
